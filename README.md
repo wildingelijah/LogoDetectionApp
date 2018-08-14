@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/wildingelijah/LogoDetectionApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project was designed by myself and three other students (Zack Palantzas, Corey Szeto and Aleem Haq) using primarily C++. We also used Blender to create the models for the actual chess pieces. My primary responsibilites throughout this project were to code the logic of the pieces movements, to create a grid system for the pieces to function on and to create/modify the physical environment (colouring of pieces, lighting, etc) to enhance the game's overall look.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About The Project
 
-### Markdown
+The game is a fully functioning two player chess game. It allows players to perform all correct movements usually found in chess rules. It has multiple features that enhance user experience nad playability. And we even added a little flare to make the game look fun and enjoyable! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pictures
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Files
 
-1. Numbered
-2. List
+In order to access the files for this project please click "View on GitHub". 
 
-**Bold** and _Italic_ and `Code` text
+The board.cpp, project.cpp and board.h files contain all our C++ code that runs the game while the .obj files are our chess models that we load into the game through the code. The last file is a makefile that will compile all files together into an executable to run the game.
 
-[Link](url) and ![Image](src)
-```
+In order to run the game, download all the files and then navigate to folder in Terminal and enter "make" to compile and link all files into the single game executable. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It should be noted that all controls and information needed are printed out to the console.
 
-### Jekyll Themes
+## Back
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildingelijah/LogoDetectionApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Back to main page of portfolio](https://wildingelijah.github.io/)
