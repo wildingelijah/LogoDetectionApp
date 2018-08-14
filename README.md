@@ -1,10 +1,10 @@
 # Introduction
 
-This project was designed by myself and three other students (Zack Palantzas, Corey Szeto and Aleem Haq) using primarily C++. We also used Blender to create the models for the actual chess pieces. My primary responsibilites throughout this project were to code the logic of the pieces movements, to create a grid system for the pieces to function on and to create/modify the physical environment (colouring of pieces, lighting, etc) to enhance the game's overall look.
+This project was designed by myself and three other students (Phillip Pavlich, Aidan Schonewille and Prince Kowser) coding with Java in Android Studio. 
 
 ## About The Project
 
-The game is a fully functioning two player chess game. It allows players to perform all correct movements usually found in chess rules. It has multiple features that enhance user experience nad playability. And we even added a little flare to make the game look fun and enjoyable! 
+The app is a sports team logo detection application. It allows users to upload or take a photo and it then uses three experts (shape, colour and text detection) to recgonize the logo and return the team name and some other information to the user. The primary focus of this project was to work on the documentation side of the software process and so we were only given a week to perform the actual coding. As such the app does not work perfectly, however all its features function as we intended them. The only flaw with our system is it will not return the correct result 100% of the time. 
 
 ## Pictures
 
