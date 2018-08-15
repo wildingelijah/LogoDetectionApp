@@ -14,6 +14,12 @@ The app is a sports team logo detection application. It allows users to take a p
 
 In order to access the files for this project please click "View on GitHub". 
 
+To run the application download the Sports Logo Recognition folder. Once downloaded you will able to open the project in Android Studio and run the app by either connecting an Android device or by using an emulator from within Android Studio. 
+
+If you would like to view the code (without having to download and run the app) to see how the algorithms work, the code can be found in this file path: app > src > main > java > com > example > a04 > whatteamisthis10. Within the 'whatteamisthis10' folder, all main code files are located. The files I had the most influence on were Experts.java, Image.java and Preference.java.
+
+If you would like to know more about how the app functions, the code itself or my part in the project please feel free to ask me questions at: **elijahwilding@gmail.com**.
+
 ## Back
 
 [Back to main page of portfolio](https://wildingelijah.github.io/)
