@@ -8,7 +8,7 @@ The app is a sports team logo detection application. It allows users to take a p
 
 ## Pictures
 
-
+Coming Soon!
 
 ## Files
 
